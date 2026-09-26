@@ -6,7 +6,7 @@ Its first six pages are gone. We do not know how the gospel began, how its autho
 
 There is something strangely appropriate about meeting this gospel in fragments. We are accustomed to thinking of sacred texts as things handed down intact, their words safely carried from one generation to another. The Gospel of Mary asks something different of us. We must listen through absence, resisting the temptation to fill the silence with what we wish had been there.
 
-## A Gospel Recovered
+### A Gospel Recovered
 
 The principal surviving copy of the Gospel of Mary is preserved in a manuscript known today as the Berlin Codex, or *Papyrus Berolinensis 8502*. Written in Coptic and generally dated to the fifth century, the codex contains four early Christian works. The Gospel of Mary appears first, followed by the *Apocryphon of John*, the *Sophia of Jesus Christ*, and a version of the *Acts of Peter*.
 
@@ -16,7 +16,7 @@ Yet the Berlin Codex is not our only witness to Mary's Gospel. Two much smaller 
 
 How widely it circulated, who read it, and precisely how particular Christian communities used it are much harder questions to answer. We should be careful not to imagine a clearly defined “community of Mary” for which we have no direct evidence. What we can say is simpler and perhaps more compelling: people copied this gospel. They preserved it in different languages and manuscripts across centuries. Someone considered these words worth the considerable labor required to keep them alive.
 
-## The Pages That Are Gone
+### The Pages That Are Gone
 
 The surviving Coptic manuscript begins on page seven. Pages one through six have been lost, which means that we possess neither the original opening nor the setting it may have provided. We enter while the Savior is already teaching his disciples about matter, sin, suffering, and the return of all things to their root.
 
@@ -32,7 +32,7 @@ Perhaps this is not so different from the way we receive our own lives. Few of u
 
 The missing pages remind us that something need not be complete to be meaningful.
 
-## Mary and the Question of Authority
+### Mary and the Question of Authority
 
 The Mary of this gospel emerges most clearly after the Savior departs. The disciples are frightened. They know what happened to their teacher and wonder what will happen if they carry his message into the world. They weep and hesitate.
 
@@ -50,7 +50,7 @@ But the tension preserved in Mary's Gospel is real. Who gets to speak? Whose exp
 
 The Gospel does not answer those questions by constructing another hierarchy. Instead, it repeatedly turns attention toward transformation. The measure of the path seems to be the kind of human being it produces.
 
-## Becoming Truly Human
+### Becoming Truly Human
 
 This may be the thread that holds the surviving Gospel of Mary together.
 
@@ -78,7 +78,7 @@ And beyond them lies rest.
 
 Mary's vision ends in silence.
 
-## Sitting With the Fragments
+### Sitting With the Fragments
 
 This book is not an attempt to reconstruct the Gospel of Mary. We will not fill its missing pages or pretend that we can recover everything its ancient author intended. Nor will we attempt to make Mary speak with the voice of our own century.
 
