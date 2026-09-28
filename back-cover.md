@@ -1,5 +1,3 @@
-For the back cover, I’d keep the historical hook—the lost pages and rediscovery—but quickly turn toward what makes Mary compelling for a contemporary contemplative reader.
-
 What remains of the *Gospel of Mary* comes to us in fragments.
 
 Its opening pages are lost. Four more disappear just as Mary begins recounting her vision of the risen Christ. Yet across the centuries, what survives still carries a striking message of inner freedom: desire does not own us, fear does not define us, and the voices that accuse us need not have the final word.
